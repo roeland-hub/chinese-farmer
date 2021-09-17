@@ -1,0 +1,16 @@
+body {
+    margin: 0 auto;
+    background-image: url("horse.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    width: 400px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+figure {
+    float: right;
+}
