@@ -14,3 +14,94 @@ img {
 figure {
     float: right;
 }
+
+h1 {
+    text-align: center;
+}
+
+header > h2 {
+    text-align: center;
+    color: rgb(56, 56, 56);
+    line-height: 0.6;
+}
+
+section {
+    margin-left: 20px;
+}
+
+.story {
+    font-size: 1.3em;
+}
+
+.story > h2 {
+    margin-left: 40px;
+}
+
+em {
+    color: darkblue;
+    font-weight: 600;
+}
+
+strong {
+    color: darkred;
+    font-style: oblique;
+}
+
+.preamble {
+    border-radius: 10px;
+    background-color: rgba(235, 133, 93, 0.74);
+    float: left;
+    padding: 20px;
+    margin: 10px;
+}
+
+.center {
+    margin-left: 400px;
+    margin-right: center;
+    color: rgb(79, 81, 90);
+    background-color: rgba(235, 133, 93, 0.74);
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 300px;
+  }
+
+.conclusion {
+    margin-left: 100px;
+    font-size: 1.2;
+    padding: 20px;
+  }
+
+q {
+    font-family: monospace;
+    font-size: larger;
+  }
+
+blockquote {
+    color: darkblue;
+    margin-left: 45vw;
+    margin-bottom: 20px;
+  }
+
+footer {
+    margin-top: 40px;
+  }
+
+footer > h2 {
+    margin-left: 10vw;
+}
+
+footer > p {
+    margin-left: 10vw;
+}
+
+
+
+  
